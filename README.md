@@ -12,4 +12,3 @@ pip install opencv-python
 To run the program, simply run the color_detection.py file in your Python environment. The program will automatically detect objects of the color specified in the HSV_color_range variable, and frame them with a rectangle.
 
 You can adjust the color range by modifying the values in the HSV_color_range variable. The program will detect all colors within the specified range.
-
