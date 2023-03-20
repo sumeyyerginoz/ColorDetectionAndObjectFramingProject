@@ -11,8 +11,8 @@ To use this project, you will need to have Python 3 and OpenCV installed on your
 To run the program, simply run the color_detection.py file in your Python environment. The program will automatically detect objects of the color specified in the HSV_color_range variable, and frame them with a rectangle.
 
 You can adjust the color range by modifying the values in the HSV_color_range variable. The program will detect all colors within the specified range.
-<br><img width="480" alt="image" src="https://user-images.githubusercontent.com/112480236/220666243-227a7bcb-2f06-4312-a697-fca8992333a2.png">
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/112480236/220666476-f6bb8eb0-fb47-40c7-9242-f5fec53fb7b4.png">
+<br><img width="2400" alt="image" src="https://user-images.githubusercontent.com/112480236/220666243-227a7bcb-2f06-4312-a697-fca8992333a2.png">
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/112480236/220666476-f6bb8eb0-fb47-40c7-9242-f5fec53fb7b4.png">
 
 <br><br> <a>---------------------------------------------------------------------------------------------------------------------------------------</a><br>
 
